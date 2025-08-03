@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/bemutatkozas/page": "app/bemutatkozas/page.js",
+  "/szolgaltatasok/online-tanacsadas/page": "app/szolgaltatasok/online-tanacsadas/page.js",
+  "/kapcsolat/page": "app/kapcsolat/page.js",
+  "/szolgaltatasok/kapcsolat/page": "app/szolgaltatasok/kapcsolat/page.js"
+}

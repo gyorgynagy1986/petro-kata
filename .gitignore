@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.env
+.env.*.local
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS fájlok
+.DS_Store
+Thumbs.db
+
+# Szerkesztők, IDE-k
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Teszt lefutások, coverage
+coverage/
+*.lcov
+
+# GitHub Actions cache
+*.tsbuildinfo
+
+# Angular
+.angular/
+
+# React
+*.cache/
+.cache/
+public/static/
